@@ -11,7 +11,7 @@ A Submods of NEOW(New Era, Old World) of Crusader King 2 Mod, Currently only ava
   - Darken the Sea and the World.
   - Adding more cooler occupation pattern.
   - ETC
-MAP Preview :
+- MAP Preview :
 ![ck2_7](https://github.com/user-attachments/assets/c3b079d9-df96-4371-b398-398638ebbe8e)
 ![ck2_6](https://github.com/user-attachments/assets/c76bc667-e0e1-4a82-ae23-e401e2926d6d)
 ![ck2_5](https://github.com/user-attachments/assets/cece6fd4-b12d-430a-b1bd-5bd8132bc909)
