@@ -2,16 +2,16 @@
 A Submods of NEOW(New Era, Old World) of Crusader King 2 Mod.
 - NEOW Link : https://github.com/ATE-OW-Dev-Team/After-the-End---Old-World/tree/North-East-East-Asia-Plus-Far-North-West-America
 - NEOW Discord Link : https://discord.com/invite/B642KJX.
-- Currently only available with the dark and fullmap version, other version will soon be added.
-What Different?
-- Changing the Colourmap.
-- Overhaul the Terrain Atlas.
-- Remove or reduce the reflection and Tree.
-- Completely change the maps to became as flat as possible.
-- All the Border and Fog of War have been reworked.
-- Darken the Sea and the World.
-- Adding more cooler occupation pattern.
-- ETC
+Currently only available with the dark and fullmap version, other version will soon be added.
+- What Different?
+  - Changing the Colourmap.
+  - Overhaul the Terrain Atlas.
+  - Remove or reduce the reflection and Tree.
+  - Completely change the maps to became as flat as possible.
+  - All the Border and Fog of War have been reworked.
+  - Darken the Sea and the World.
+  - Adding more cooler occupation pattern.
+  - ETC
 MAP Preview :
 ![ck2_7](https://github.com/user-attachments/assets/c3b079d9-df96-4371-b398-398638ebbe8e)
 ![ck2_6](https://github.com/user-attachments/assets/c76bc667-e0e1-4a82-ae23-e401e2926d6d)
