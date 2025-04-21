@@ -1,7 +1,8 @@
 # NEOW_FantasyMap
 A Submods of NEOW(New Era, Old World) of Crusader King 2 Mod.
-NEOW Link : https://github.com/ATE-OW-Dev-Team/After-the-End---Old-World/tree/North-East-East-Asia-Plus-Far-North-West-America
-NEOW Discord Link : https://discord.com/invite/B642KJX.
+- NEOW Link : https://github.com/ATE-OW-Dev-Team/After-the-End---Old-World/tree/North-East-East-Asia-Plus-Far-North-West-America
+- NEOW Discord Link : https://discord.com/invite/B642KJX.
+- Currently only available with the dark and fullmap version, other version will soon be added.
 What Different?
 - Changing the Colourmap.
 - Overhaul the Terrain Atlas.
