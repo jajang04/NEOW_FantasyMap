@@ -7,7 +7,7 @@ What Different?
 - Overhaul the Terrain Atlas.
 - Remove or reduce the reflection and Tree.
 - Completely change the maps to became as flat as possible.
-- All the Border have been reworked.
+- All the Border and Fog of War have been reworked.
 - Darken the Sea and the World.
 - Adding more cooler occupation pattern.
 - ETC
